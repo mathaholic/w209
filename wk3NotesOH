@@ -1,0 +1,4 @@
+Notes for w209
+
+#how to get a local HTTP Server 
+python -m SimpleHTTPServer 8085
